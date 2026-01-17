@@ -89,7 +89,7 @@ I prefer **clarity over cleverness**, **architecture over hacks**, and **learnin
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Snehasis-Das
-- LinkedIn: https://www.linkedin.com/in/snehasis-das-179029aa
+- LinkedIn: https://www.linkedin.com/in/snehasis-das-1790292aa
 
 ---
 
